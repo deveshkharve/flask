@@ -381,5 +381,4 @@ class SecureCookieSessionInterface(SessionInterface):
             domain=domain,
             path=path,
             secure=secure,
-            samesite=samesite
         )
